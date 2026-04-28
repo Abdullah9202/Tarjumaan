@@ -24,6 +24,7 @@ st.markdown("""
         font-weight: bold;
         padding: 20px;
         background-color: #f0f2f6;
+        color: #1a1a1a;
         border-radius: 10px;
         margin: 10px 0;
     }
@@ -33,6 +34,7 @@ st.markdown("""
         font-size: 20px;
         padding: 15px;
         background-color: #e8f4f8;
+        color: #1a1a1a;
         border-radius: 10px;
         margin: 10px 0;
     }
@@ -40,6 +42,7 @@ st.markdown("""
         font-size: 20px;
         padding: 15px;
         background-color: #e8f4f8;
+        color: #1a1a1a;
         border-radius: 10px;
         margin: 10px 0;
     }
